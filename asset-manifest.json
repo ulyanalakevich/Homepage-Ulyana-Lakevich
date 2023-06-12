@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/homepage-ulyana-lakevich/static/css/main.4cdc8f22.css",
-    "main.js": "/homepage-ulyana-lakevich/static/js/main.22448079.js",
-    "static/js/787.f537a562.chunk.js": "/homepage-ulyana-lakevich/static/js/787.f537a562.chunk.js",
-    "static/media/profile.jpeg": "/homepage-ulyana-lakevich/static/media/profile.92aa029847ed5443c2b1.jpeg",
-    "static/media/Work3.png": "/homepage-ulyana-lakevich/static/media/Work3.bc758cd87beb1467d574.png",
-    "static/media/Work2.png": "/homepage-ulyana-lakevich/static/media/Work2.6a04791f8e4ac50b4326.png",
-    "static/media/Work4.png": "/homepage-ulyana-lakevich/static/media/Work4.e6f2efca93bff83f9743.png",
-    "static/media/Work1.png": "/homepage-ulyana-lakevich/static/media/Work1.92f0e405c615a02afa0c.png",
-    "index.html": "/homepage-ulyana-lakevich/index.html",
-    "main.4cdc8f22.css.map": "/homepage-ulyana-lakevich/static/css/main.4cdc8f22.css.map",
-    "main.22448079.js.map": "/homepage-ulyana-lakevich/static/js/main.22448079.js.map",
-    "787.f537a562.chunk.js.map": "/homepage-ulyana-lakevich/static/js/787.f537a562.chunk.js.map"
+    "main.css": "/Homepage-Ulyana-Lakevich/static/css/main.4cdc8f22.css",
+    "main.js": "/Homepage-Ulyana-Lakevich/static/js/main.b000e0c4.js",
+    "static/js/787.f537a562.chunk.js": "/Homepage-Ulyana-Lakevich/static/js/787.f537a562.chunk.js",
+    "static/media/profile.jpeg": "/Homepage-Ulyana-Lakevich/static/media/profile.92aa029847ed5443c2b1.jpeg",
+    "static/media/Work3.png": "/Homepage-Ulyana-Lakevich/static/media/Work3.bc758cd87beb1467d574.png",
+    "static/media/Work2.png": "/Homepage-Ulyana-Lakevich/static/media/Work2.6a04791f8e4ac50b4326.png",
+    "static/media/Work4.png": "/Homepage-Ulyana-Lakevich/static/media/Work4.e6f2efca93bff83f9743.png",
+    "static/media/Work1.png": "/Homepage-Ulyana-Lakevich/static/media/Work1.92f0e405c615a02afa0c.png",
+    "index.html": "/Homepage-Ulyana-Lakevich/index.html",
+    "main.4cdc8f22.css.map": "/Homepage-Ulyana-Lakevich/static/css/main.4cdc8f22.css.map",
+    "main.b000e0c4.js.map": "/Homepage-Ulyana-Lakevich/static/js/main.b000e0c4.js.map",
+    "787.f537a562.chunk.js.map": "/Homepage-Ulyana-Lakevich/static/js/787.f537a562.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4cdc8f22.css",
-    "static/js/main.22448079.js"
+    "static/js/main.b000e0c4.js"
   ]
 }
