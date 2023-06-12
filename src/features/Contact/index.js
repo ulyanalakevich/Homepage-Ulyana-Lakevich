@@ -7,7 +7,6 @@ import {
 
 import { FiSend } from "react-icons/fi";
 import "./styled.css";
-import "../../index.css";
 import emailjs from "emailjs-com";
 import { useState } from "react";
 
