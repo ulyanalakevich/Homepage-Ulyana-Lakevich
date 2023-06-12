@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/homepage-ulyana-lakevich/static/css/main.4cdc8f22.css",
+    "main.js": "/homepage-ulyana-lakevich/static/js/main.94a4ba42.js",
+    "static/js/787.f537a562.chunk.js": "/homepage-ulyana-lakevich/static/js/787.f537a562.chunk.js",
+    "static/media/profile.jpeg": "/homepage-ulyana-lakevich/static/media/profile.92aa029847ed5443c2b1.jpeg",
+    "static/media/Work3.png": "/homepage-ulyana-lakevich/static/media/Work3.bc758cd87beb1467d574.png",
+    "static/media/Work2.png": "/homepage-ulyana-lakevich/static/media/Work2.6a04791f8e4ac50b4326.png",
+    "static/media/Work1.png": "/homepage-ulyana-lakevich/static/media/Work1.92f0e405c615a02afa0c.png",
+    "index.html": "/homepage-ulyana-lakevich/index.html",
+    "main.4cdc8f22.css.map": "/homepage-ulyana-lakevich/static/css/main.4cdc8f22.css.map",
+    "main.94a4ba42.js.map": "/homepage-ulyana-lakevich/static/js/main.94a4ba42.js.map",
+    "787.f537a562.chunk.js.map": "/homepage-ulyana-lakevich/static/js/787.f537a562.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cdc8f22.css",
+    "static/js/main.94a4ba42.js"
+  ]
+}
