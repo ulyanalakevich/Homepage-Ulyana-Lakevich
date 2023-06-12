@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Homepage-Ulyana-Lakevich/static/css/main.4cdc8f22.css",
-    "main.js": "/Homepage-Ulyana-Lakevich/static/js/main.0a2ee8db.js",
+    "main.js": "/Homepage-Ulyana-Lakevich/static/js/main.f1358450.js",
     "static/js/787.f537a562.chunk.js": "/Homepage-Ulyana-Lakevich/static/js/787.f537a562.chunk.js",
     "static/media/profile.jpeg": "/Homepage-Ulyana-Lakevich/static/media/profile.92aa029847ed5443c2b1.jpeg",
     "static/media/Work3.png": "/Homepage-Ulyana-Lakevich/static/media/Work3.bc758cd87beb1467d574.png",
@@ -10,11 +10,11 @@
     "static/media/Work1.png": "/Homepage-Ulyana-Lakevich/static/media/Work1.92f0e405c615a02afa0c.png",
     "index.html": "/Homepage-Ulyana-Lakevich/index.html",
     "main.4cdc8f22.css.map": "/Homepage-Ulyana-Lakevich/static/css/main.4cdc8f22.css.map",
-    "main.0a2ee8db.js.map": "/Homepage-Ulyana-Lakevich/static/js/main.0a2ee8db.js.map",
+    "main.f1358450.js.map": "/Homepage-Ulyana-Lakevich/static/js/main.f1358450.js.map",
     "787.f537a562.chunk.js.map": "/Homepage-Ulyana-Lakevich/static/js/787.f537a562.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4cdc8f22.css",
-    "static/js/main.0a2ee8db.js"
+    "static/js/main.f1358450.js"
   ]
 }
