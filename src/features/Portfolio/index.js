@@ -1,4 +1,4 @@
-import PortfolioItem from "../../common/PortfolioItem";
+import PortfolioItem from "./PortfolioItem";
 import { portfolio } from "../../data";
 import "./styled.css"
 
