@@ -211,7 +211,7 @@ export const portfolio = [
     id: 4,
     img: Work4,
     title: 'Portfolio',
-    urlDemo: "https://ulyanalakevich.github.io/homepage-ulyana-lakevich/",
+    urlDemo: "https://ulyanalakevich.github.io/Homepage-Ulyana-Lakevich/",
     urlGit: "https://github.com/ulyanalakevich/Homepage-Ulyana-Lakevich",
   }
 
