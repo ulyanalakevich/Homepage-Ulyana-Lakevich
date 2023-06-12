@@ -70,7 +70,7 @@ export const personalInfo = [
   {
     id: 3,
     title: "Age : ",
-    description: "19 Years",
+    description: "20 Years",
   },
 
   {
