@@ -12,6 +12,7 @@ import { FiFileText, FiUser, FiExternalLink } from 'react-icons/fi'
 import Work1 from './assets/Work1.png'
 import Work2 from './assets/Work2.png'
 import Work3 from './assets/Work3.png'
+import Work4 from './assets/Work4.png'
 import Theme1 from './assets/purple.png';
 import Theme2 from './assets/red.png';
 import Theme3 from './assets/blueviolet.png';
@@ -205,6 +206,14 @@ export const portfolio = [
     urlDemo: "https://krzysztof-gronski.github.io/Movies-Browser/#/movies?page=1",
     urlGit: "https://github.com/krzysztof-gronski/Movies-Browser",
   },
+
+  {
+    id: 4,
+    img: Work4,
+    title: 'Portfolio',
+    urlDemo: "https://ulyanalakevich.github.io/homepage-ulyana-lakevich/",
+    urlGit: "https://github.com/ulyanalakevich/Homepage-Ulyana-Lakevich",
+  }
 
 ];
 export const themes = [
