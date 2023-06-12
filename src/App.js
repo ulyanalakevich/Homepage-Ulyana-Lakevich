@@ -13,7 +13,7 @@ function App() {
     <Navigation/>
     <Themes/>
       <Routes>
-        <Route index element={<Home />} />
+        <Route path="*" element={<Home />} />
         <Route path="about" element={<About />} />
         <Route path="portfolio" element={<Portfolio />} />
         <Route path="contact" element={<Contact />} />
