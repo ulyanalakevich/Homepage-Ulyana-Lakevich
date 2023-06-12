@@ -1,11 +1,11 @@
 import { FaDownload } from "react-icons/fa";
-import Info from "../../common/Info";
-import Stats from "../../common/Stats";
+import Info from "./Info";
+import Stats from "./Stats";
 import CV from "../../assets/profile.jpeg";
 import "./styled.css";
-import Skills from "../../common/Skills";
+import Skills from "./Skills";
 import { resume } from "../../data";
-import Resume from "../../common/Resume";
+import Resume from "./Resume";
 
 const About = () => {
   return (
@@ -22,12 +22,12 @@ const About = () => {
             <ul className="info__list grid">
               <Info />
             </ul>
-            <a href={CV} download="" className="button">
+           {/*  <a href={CV} download="" className="button">
               Download CV
               <span className="button__icon">
                 <FaDownload />
               </span>
-            </a>
+            </a> */}
           </div>
 
           <div className="stats grid">
