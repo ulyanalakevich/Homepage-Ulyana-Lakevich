@@ -13,6 +13,7 @@ import Work1 from "./assets/Work1.png";
 import Work2 from "./assets/Work2.png";
 import Work3 from "./assets/Work3.png";
 import Work4 from "./assets/Work4.png";
+import Work5 from "./assets/Work5.png";
 import Theme1 from "./assets/purple.png";
 import Theme2 from "./assets/red.png";
 import Theme3 from "./assets/blueviolet.png";
@@ -211,8 +212,15 @@ export const portfolio = [
     id: 4,
     img: Work4,
     title: "Portfolio",
-    urlDemo: "https://ulyanalakevich.github.io/Homepage-Ulyana-Lakevich",
-    urlGit: "https://github.com/ulyanalakevich/Homepage-Ulyana-Lakevich",
+    urlDemo: "https://ulyanalakevich.github.io/Portfolio-Ulyana-Lakevich/",
+    urlGit: "https://github.com/ulyanalakevich/Portfolio-Ulyana-Lakevich",
+  },
+  {
+    id: 5,
+    img: Work5,
+    title: "Personal Homepage(React)",
+    urlDemo: "https://ulyanalakevich.github.io/Personal-Homepage/",
+    urlGit: "https://github.com/ulyanalakevich/Personal-Homepage",
   },
 ];
 export const themes = [
