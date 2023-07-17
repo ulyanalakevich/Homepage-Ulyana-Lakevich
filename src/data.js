@@ -143,17 +143,17 @@ export const resume = [
 export const skills = [
   {
     id: 1,
-    title: "Html",
+    title: "HTML",
   },
 
   {
     id: 2,
-    title: "Javascript",
+    title: "JavaScript",
   },
 
   {
     id: 3,
-    title: "Css",
+    title: "CSS",
   },
 
   {
@@ -173,7 +173,7 @@ export const skills = [
 
   {
     id: 7,
-    title: "Redux",
+    title: "React",
   },
 
   {
