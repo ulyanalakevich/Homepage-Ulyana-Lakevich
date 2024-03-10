@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-Ulyana-Lakevich/static/css/main.4cdc8f22.css",
-    "main.js": "/Portfolio-Ulyana-Lakevich/static/js/main.73f69c94.js",
+    "main.css": "/Portfolio-Ulyana-Lakevich/static/css/main.5a12147f.css",
+    "main.js": "/Portfolio-Ulyana-Lakevich/static/js/main.09cb32c8.js",
     "static/js/787.f537a562.chunk.js": "/Portfolio-Ulyana-Lakevich/static/js/787.f537a562.chunk.js",
     "static/media/profile.jpeg": "/Portfolio-Ulyana-Lakevich/static/media/profile.92aa029847ed5443c2b1.jpeg",
     "static/media/Work3.png": "/Portfolio-Ulyana-Lakevich/static/media/Work3.bc758cd87beb1467d574.png",
@@ -11,12 +11,12 @@
     "static/media/ULYANA_LAKEVICH_CV_EN.pdf": "/Portfolio-Ulyana-Lakevich/static/media/ULYANA_LAKEVICH_CV_EN.aa6a84a9e6a57d2bcee6.pdf",
     "static/media/Work1.png": "/Portfolio-Ulyana-Lakevich/static/media/Work1.92f0e405c615a02afa0c.png",
     "index.html": "/Portfolio-Ulyana-Lakevich/index.html",
-    "main.4cdc8f22.css.map": "/Portfolio-Ulyana-Lakevich/static/css/main.4cdc8f22.css.map",
-    "main.73f69c94.js.map": "/Portfolio-Ulyana-Lakevich/static/js/main.73f69c94.js.map",
+    "main.5a12147f.css.map": "/Portfolio-Ulyana-Lakevich/static/css/main.5a12147f.css.map",
+    "main.09cb32c8.js.map": "/Portfolio-Ulyana-Lakevich/static/js/main.09cb32c8.js.map",
     "787.f537a562.chunk.js.map": "/Portfolio-Ulyana-Lakevich/static/js/787.f537a562.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cdc8f22.css",
-    "static/js/main.73f69c94.js"
+    "static/css/main.5a12147f.css",
+    "static/js/main.09cb32c8.js"
   ]
 }
