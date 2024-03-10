@@ -1,7 +1,7 @@
 import { FaDownload } from "react-icons/fa";
 import Info from "./Info";
 import Stats from "./Stats";
-import CV from "../../assets/ULYANA_LAKEVICH_CV_EN.pdf";
+import CV from "../../assets/Ula_CV_EN.pdf";
 import "./styled.css";
 import Skills from "./Skills";
 import { resume } from "../../data";
