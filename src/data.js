@@ -117,9 +117,17 @@ export const resume = [
     id: 1,
     category: "experience",
     icon: <FaBriefcase />,
-    year: "2020 - PRESENT",
-    title: "Interior Design",
-    desc: "As a freelancer specializing in interior design, I utilize AutoCAD and 3ds Max to create stunning projects. Additionally, I provide comprehensive technical drawings that serve as essential guides for builders, ensuring precise implementation of the design during the projects realization.",
+    year: "2020 - 2023",
+    title: "Interior Designer",
+    name: "Monos Design",
+  },
+  {
+    id: 2,
+    category: "experience",
+    icon: <FaBriefcase />,
+    year: "2023 - 2023",
+    title: "Frontend Developer(React)",
+    name: "Digiway Media",
   },
   {
     id: 4,
@@ -137,6 +145,14 @@ export const resume = [
     year: "2022-2023",
     title: "Frontend Developer ",
     name: "YouCode course",
+  },
+  {
+    id: 6,
+    category: "education",
+    icon: <FaGraduationCap />,
+    year: "2023-2024",
+    title: "Project Manager",
+    name: "Google Project Management",
   },
 ];
 
@@ -178,7 +194,27 @@ export const skills = [
 
   {
     id: 8,
+    title: "Scrum",
+  },
+  {
+    id: 8,
+    title: "Material UI",
+  },
+  {
+    id: 8,
+    title: "Redux",
+  },
+  {
+    id: 8,
     title: "BEM convention",
+  },
+  {
+    id: 8,
+    title: "TypeScript",
+  },
+  {
+    id: 8,
+    title: "Error handling",
   },
 ];
 

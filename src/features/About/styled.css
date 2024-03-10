@@ -60,7 +60,7 @@
 .skills__container {
     grid-template-columns: repeat(4, 1fr);
     justify-content: center;
-    row-gap: 48px;
+    row-gap: 36px;
 }
 
 .skills__title {
